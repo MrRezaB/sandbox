@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-27 00:23 (IR Time)
+- 📥 **[mhrv-rs-windows-amd64.zip](https://github.com/MrRezaB/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip)**
+
+
 ### 📅 2026-04-26 23:47 (IR Time)
 - 📥 **[mhrv-rs-android-arm64-v8a-v1.7.3.apk](https://github.com/MrRezaB/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.7.3.apk)**
 
