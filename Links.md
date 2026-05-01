@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-01 18:49 (IR Time)
+- 📥 **[SlipNet-v2.5.3-lite-release-arm64-v8a.apk](https://github.com/MrRezaB/sandbox/raw/main/dl/SlipNet-v2.5.3-lite-release-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-01 15:55 (IR Time)
 - 📥 **[roundsync_v2.6.0-oss-arm64-v8a-release.apk](https://github.com/MrRezaB/sandbox/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk)**
 
